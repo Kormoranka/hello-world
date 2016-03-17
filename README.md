@@ -3,7 +3,7 @@ Started using GitHub as part of my Ada Developers Academy application.
 
 ##Neda Dokic Resume##
 ###2D Artist###
-Portfolio [URL](http://sites.google.com/site/nedadokic “Neda Dokic Portfolio”)
+Portfolio [URL](http://sites.google.com/site/nedadokic/)
 
 ####Qualifications:####
 
