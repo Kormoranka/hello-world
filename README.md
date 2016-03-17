@@ -4,7 +4,7 @@ Started using GitHub as part of my Ada Developers Academy application.
 ##Neda Dokic Resume##
 ###2D Artist###
 
-###URL:####
+###URLs:####
 
 1. [Portfolio Children's Market](http://sites.google.com/site/nedadokic/)
 2. [Portfolio Young Adults](http://sites.google.com/site/nedadokichighschoolmarket/)
@@ -31,21 +31,21 @@ Started using GitHub as part of my Ada Developers Academy application.
 * Illustrated and animated educational movies pertaining to natural sciences:
 *timeline animations of five minute long narrated content.*
 
-* December 2010 to April 2012 –Multimedia Artist – Apex Learning, Seattle
+* __December 2010 to April 2012 –Multimedia Artist – Apex Learning, Seattle__
 
 * Creation and production of Flash animations and illustrations for high school level e-learning products: *vector illustration, typographic design, photo editing, collage and interactive timeline Flash animation.*
 
-* July 2009 to December 2010 – Flash Animator and Illustrator – Kinetic books, Seattle
+* __July 2009 to December 2010 – Flash Animator and Illustrator – Kinetic books, Seattle__
 
 * Created and often conceptualized numerous animations, illustrations and game assets for elementary school level e-learning products in a very fast-paced environment:
 *symbol based vector Flash animation and bitmap sprites.*
 * Designed website for one of company’s products and worked on multiple UI designs.
 
-* January 2009 to 2013 – Freelance Illustrator – The Seattle Art Museum
+* __January 2009 to 2013 – Freelance Illustrator – The Seattle Art Museum__
 
 * Illustrations for educational programs addressing children and teens.
 
-* 2001 to 2008 – Senior Designer and Illustrator – KREATIVNI CENTAR Publishing, Belgrade, Serbia
+* __2001 to 2008 – Senior Designer and Illustrator – KREATIVNI CENTAR Publishing, Belgrade, Serbia__
 
 KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a regular exhibitor at the Bologna Children’s Books’ Fair, cooperates with a number of well-known publishing houses from all over the world. Awarded by The European Educational Publishers Group in 2007.
 
