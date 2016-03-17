@@ -65,5 +65,5 @@ _KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a reg
 ####Education:####
 
 * __June 2015, Certificate in Digital Publishing__ at The University of Washington, Professional and Continuing Education
-* __September 2000, BA degree in Graphic Design__ at The University of Art in Belgrade, Faculty of Applied Arts and Design, Major in Illustration and Graphic Design
+* __September 2000, BA degree in Graphic Design__ at The University of Art in Belgrade, Faculty of Applied Arts and Design; Major in Illustration and Graphic Design
 * __1994-1996 – Study of General Linguistics__ at The Belgrade University, Faculty of Philology
