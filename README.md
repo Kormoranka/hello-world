@@ -47,23 +47,23 @@ Started using GitHub as part of my Ada Developers Academy application.
 
 * __2001 to 2008 – Senior Designer and Illustrator – KREATIVNI CENTAR Publishing, Belgrade, Serbia__
 
-_KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a regular exhibitor at the Bologna Children’s Books’ Fair, cooperates with a number of well-known publishing houses from all over the world. Awarded by The European Educational Publishers Group in 2007._
+_KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a regular exhibitor at the Bologna Children’s Books’ Fair, cooperates with a number of well-known publishing houses from all over the world. The European Educational Publishers Group's multiple Award Winner._
 
 * Gained extensive experience in the field of publishing and print production.
 * Conceptualized, designed and illustrated dozens of educational and picture books both independently and within a team. Some of the titles have been sold internationally.
 * Conceptualized a wide range of successful promotional material: novelty bookmarks, T-shirts, fair booths, large displays, vehicle graphics, web elements and magazine ads.
 
-* 2005 to 2008 – Illustrator for POLITIKIN ZABAVNIK, one of the most popular weekly magazines in the region of former Yugoslavia
+* __2005 to 2008 – Illustrator for POLITIKIN ZABAVNIK,__ _one of the most popular weekly magazines in the region of former Yugoslavia_
 
 * While freelancing for this publishing house I was always capable to meet deadlines and produce editorial illustrations noticeable for their humor.
 
-* 2001 – Junior Art Director – IDOLS & FRIENDS Advertising, Belgrade, Serbia
+* __2001 – Junior Art Director – IDOLS & FRIENDS Advertising, Belgrade, Serbia__
 
 * Designed logos, ads, billboards and various point of purchase material.
 * Gained significant experience working with big and demanding clients in a very fast paced environment.
 
 ####Education:####
 
-* June 2015, Certificate in Digital Publishing at The University of Washington, Professional and Continuing Education
-* September 2000, BA degree in Graphic Design at The University of Art in Belgrade Major in Illustration and Graphic Design
-* 1994-1996 – Study of General Linguistics at The Belgrade University, Faculty of Philology
+* __June 2015, Certificate in Digital Publishing__ at The University of Washington, Professional and Continuing Education
+* __September 2000, BA degree in Graphic Design__ at The University of Art in Belgrade's Faculty Of Applied Arts And Design, Major in Illustration and Graphic Design
+* __1994-1996 – Study of General Linguistics__ at The Belgrade University, Faculty of Philology
