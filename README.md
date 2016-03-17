@@ -1,12 +1,11 @@
 # hello-world
 Started using GitHub as part of my Ada Developers Academy application.
 
-#Resume#
-##Neda Dokic##
+##Neda Dokic Resume##
 ###2D Artist###
 Portfolio [URL](http://sites.google.com/site/nedadokic “Neda Dokic Portfolio”)
 
-__Qualifications:__
+####Qualifications:####
 
 * Illustration skills – published books, editorial illustrations, comics
 * 5 year BA degree in Graphic Design
@@ -14,7 +13,7 @@ __Qualifications:__
 * Conceptualizing skills
 * Passionate about learning
 
-__Skills:__
+####Skills:####
 
 * Flash animation
 * Basic ActionScript and HTML/CSS
@@ -22,16 +21,15 @@ __Skills:__
 * Free-hand drawing and traditional art techniques
 * Proficient in Adobe CS with emphasis on Illustrator and Flash
 
-__Work experience:__
+####Work experience:####
 
-* April 2012 to August 2012 – Flash Animator and Illustrator – McGraw-Hill CDI, Bothell
+* __April 2012 to August 2012 – Flash Animator and Illustrator – McGraw-Hill CDI, Bothell__
 * Illustrated and animated educational movies pertaining to natural sciences:
 *timeline animations of five minute long narrated content.*
 
 * December 2010 to April 2012 –Multimedia Artist – Apex Learning, Seattle
 
-* Creation and production of Flash animations and illustrations for high school level e-learning products:
-*vector illustration, typographic design, photo editing, collage and interactive timeline Flash animation.*
+* Creation and production of Flash animations and illustrations for high school level e-learning products: *vector illustration, typographic design, photo editing, collage and interactive timeline Flash animation.*
 
 * July 2009 to December 2010 – Flash Animator and Illustrator – Kinetic books, Seattle
 
@@ -60,7 +58,7 @@ KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a regu
 * Designed logos, ads, billboards and various point of purchase material.
 * Gained significant experience working with big and demanding clients in a very fast paced environment.
 
-Education:
+####Education:####
 
 * June 2015, Certificate in Digital Publishing at The University of Washington, Professional and Continuing Education
 * September 2000, BA degree in Graphic Design at The University of Art in Belgrade Major in Illustration and Graphic Design
