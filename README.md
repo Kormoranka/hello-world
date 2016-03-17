@@ -31,7 +31,7 @@ Started using GitHub as part of my Ada Developers Academy application.
 * Illustrated and animated educational movies pertaining to natural sciences:
 *timeline animations of five minute long narrated content.*
 
-* __December 2010 to April 2012 –Multimedia Artist – Apex Learning, Seattle__
+* __December 2010 to April 2012 – Multimedia Artist – Apex Learning, Seattle__
 
 * Creation and production of Flash animations and illustrations for high school level e-learning products: *vector illustration, typographic design, photo editing, collage and interactive timeline Flash animation.*
 
@@ -41,7 +41,7 @@ Started using GitHub as part of my Ada Developers Academy application.
 *symbol based vector Flash animation and bitmap sprites.*
 * Designed website for one of company’s products and worked on multiple UI designs.
 
-* __January 2009 to 2013 – Freelance Illustrator – The Seattle Art Museum__
+* __January 2009 to 2012 – Freelance Illustrator – The Seattle Art Museum__
 
 * Illustrations for educational programs addressing children and teens.
 
@@ -65,5 +65,5 @@ _KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a reg
 ####Education:####
 
 * __June 2015, Certificate in Digital Publishing__ at The University of Washington, Professional and Continuing Education
-* __September 2000, BA degree in Graphic Design__ at The University of Art in Belgrade's Faculty Of Applied Arts And Design, Major in Illustration and Graphic Design
+* __September 2000, BA degree in Graphic Design__ at The University of Art in Belgrade, Faculty of Applied Arts and Design, Major in Illustration and Graphic Design
 * __1994-1996 – Study of General Linguistics__ at The Belgrade University, Faculty of Philology
