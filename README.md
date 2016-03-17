@@ -45,9 +45,9 @@ Started using GitHub as part of my Ada Developers Academy application.
 
 * Illustrations for educational programs addressing children and teens.
 
-* __2001 to 2008 – Senior Designer and Illustrator – KREATIVNI CENTAR Publishing, Belgrade, Serbia__ [^1] 
+* __2001 to 2008 – Senior Designer and Illustrator – KREATIVNI CENTAR Publishing, Belgrade, Serbia__
 
-[^1]: KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a regular exhibitor at the Bologna Children’s Books’ Fair, cooperates with a number of well-known publishing houses from all over the world. Awarded by The European Educational Publishers Group in 2007.
+_KREATIVNI CENTAR, a leading publisher of children’s books in Serbia and a regular exhibitor at the Bologna Children’s Books’ Fair, cooperates with a number of well-known publishing houses from all over the world. Awarded by The European Educational Publishers Group in 2007._
 
 * Gained extensive experience in the field of publishing and print production.
 * Conceptualized, designed and illustrated dozens of educational and picture books both independently and within a team. Some of the titles have been sold internationally.
