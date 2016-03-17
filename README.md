@@ -7,7 +7,7 @@ Started using GitHub as part of my Ada Developers Academy application.
 ###2D Artist###
 Portfolio [URL](http://sites.google.com/site/nedadokic “Neda Dokic Portfolio”)
 
-_Qualifications:_
+__Qualifications:__
 
 * Illustration skills – published books, editorial illustrations, comics
 * 5 year BA degree in Graphic Design
@@ -22,7 +22,8 @@ _Qualifications:_
 * Print preparation and production
 * Free-hand drawing and traditional art techniques
 * Proficient in Adobe CS with emphasis on Illustrator and Flash
- *Work experience:*
+
+*Work experience:*
 
 * December 2010 to current – Flash Designer – Apex learning, Seattle
 
