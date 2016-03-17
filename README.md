@@ -2,7 +2,6 @@
 Started using GitHub as part of my Ada Developers Academy application.
 
 #Resume#
-
 ##Neda Dokic##
 ###2D Artist###
 Portfolio [URL](http://sites.google.com/site/nedadokic “Neda Dokic Portfolio”)
@@ -15,7 +14,7 @@ __Qualifications:__
 * Conceptualizing skills
 * Passionate about learning
 
-*Skills:*
+__Skills:__
 
 * Flash animation
 * Basic ActionScript and HTML/CSS
@@ -23,19 +22,22 @@ __Qualifications:__
 * Free-hand drawing and traditional art techniques
 * Proficient in Adobe CS with emphasis on Illustrator and Flash
 
-*Work experience:*
+__Work experience:__
 
-* December 2010 to current – Flash Designer – Apex learning, Seattle
+* April 2012 to August 2012 – Flash Animator and Illustrator – McGraw-Hill CDI, Bothell
+* Illustrated and animated educational movies pertaining to natural sciences:
+*timeline animations of five minute long narrated content.*
 
-* Creation and production of Flash animations and illustrations for high school level e-learning products.
-* Typographic design, photo editing and collage.
+* December 2010 to April 2012 –Multimedia Artist – Apex Learning, Seattle
 
+* Creation and production of Flash animations and illustrations for high school level e-learning products:
+*vector illustration, typographic design, photo editing, collage and interactive timeline Flash animation.*
 
 * July 2009 to December 2010 – Flash Animator and Illustrator – Kinetic books, Seattle
 
-* Created and often conceptualized numerous animations, illustrations and game assets for elementary school level e-learning products in a fast-paced environment.
-* Designed website for one of company’s products while managing multiple other tasks.
-* Delivered UI design for a future product in time in spite of time restrictions and steep learning curve.
+* Created and often conceptualized numerous animations, illustrations and game assets for elementary school level e-learning products in a very fast-paced environment:
+*symbol based vector Flash animation and bitmap sprites.*
+* Designed website for one of company’s products and worked on multiple UI designs.
 
 * January 2009 to 2013 – Freelance Illustrator – The Seattle Art Museum
 
