@@ -4,10 +4,10 @@ Started using GitHub as part of my Ada Developers Academy application.
 #Resume#
 
 ##Neda Dokic##
- ###2D Artist###
- Portfolio [URL](http://sites.google.com/site/nedadokic “Neda Dokic Portfolio”)
+###2D Artist###
+Portfolio [URL](http://sites.google.com/site/nedadokic “Neda Dokic Portfolio”)
 
-*Qualifications:*
+_Qualifications:_
 
 * Illustration skills – published books, editorial illustrations, comics
 * 5 year BA degree in Graphic Design
